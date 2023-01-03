@@ -1,7 +1,5 @@
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FtGeKV2_7w2MAAAAC%2Fjoe-emoti.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fjoe-emoti-guy-face-palm-gif-25544303&tbnid=a_gUYI6lV8un9M&vet=12ahUKEwi63LHwjqz8AhV6V6QEHcVTAWsQMygDegUIARDrAQ..i&docid=_bQIPP26axZiJM&w=498&h=418&q=joe%20emoji&ved=2ahUKEwi63LHwjqz8AhV6V6QEHcVTAWsQMygDegUIARDrAQ)" alt="Youtube Badge"/>
 </div>
 
 # misc
