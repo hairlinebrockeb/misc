@@ -68,3 +68,6 @@ bloodlines
 - m2 when ragdolled
 - strong left on stun
 - jump when target ragdolled
+
+added detect to katanas and Falchions
+
