@@ -70,4 +70,4 @@ bloodlines
 - jump when target ragdolled
 
 added detect to katanas and Falchions
-
+fixed bug
