@@ -1,5 +1,5 @@
 <div id="badges">
-  <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FtGeKV2_7w2MAAAAC%2Fjoe-emoti.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fjoe-emoti-guy-face-palm-gif-25544303&tbnid=a_gUYI6lV8un9M&vet=12ahUKEwi63LHwjqz8AhV6V6QEHcVTAWsQMygDegUIARDrAQ..i&docid=_bQIPP26axZiJM&w=498&h=418&q=joe%20emoji&ved=2ahUKEwi63LHwjqz8AhV6V6QEHcVTAWsQMygDegUIARDrAQ)" alt="Youtube Badge"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fjoe-emoti-guy-face-palm-gif-25544303&psig=AOvVaw1U3gIVdo1oRGEI4ZlnHUD2&ust=1672859896500000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjTkvKOrPwCFQAAAAAdAAAAABAE" alt="Youtube Badge"/>
 </div>
 
 # misc
