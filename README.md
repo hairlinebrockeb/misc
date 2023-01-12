@@ -69,5 +69,8 @@ bloodlines
 - strong left on stun
 - jump when target ragdolled
 
-added detect to katanas and Falchions
-fixed bug
+#bug fix
+    added detect to katanas and Falchions
+    fixed bug
+    more fw3 stuff
+    enable and disable voidwalk
